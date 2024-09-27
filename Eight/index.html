@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>محاسبه وام بانکی</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body dir="rtl">
+
+    <h1>محاسبه وام بانکی</h1>
+
+    <div class="form-group">
+        <label for="loanAmount">مبلغ وام (به میلیون تومان):</label>
+        <input type="number" id="loanAmount" placeholder="مبلغ وام را به میلیون تومان وارد کنید">
+
+        <label for="interestRate">نرخ سود سالیانه (%):</label>
+        <input type="number" id="interestRate" placeholder="نرخ سود سالیانه را وارد کنید">
+
+        <label for="loanTerm">مدت وام (ماه):</label>
+        <input type="number" id="loanTerm" placeholder="مدت وام را به ماه وارد کنید">
+
+        <label for="monthlyPayment">مبلغ قسط ماهیانه (به میلیون و هزار تومان):</label>
+        <input type="number" id="monthlyPayment" placeholder="مبلغ قسط را به هزار تومان وارد کنید">
+
+        <button onclick="calculateLoan()">محاسبه</button>
+    </div>
+
+    <div id="result"></div>
+
+    <script src="./main.js"></script>
+
+</body>
+</html>

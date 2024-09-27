@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>قیمت خودرو</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <h1> قیمت خودرو</h1>
+
+    <div class="form-group">
+        <label for="basePrice">:قیمت پایه خودرو (به میلیون) </label>
+        <input type="number" id="basePrice" placeholder="قیمت پایه را وارد کنید">
+
+        <label for="year">:سال ساخت خودرو</label>
+        <input type="date" id="year" placeholder="سال ساخت را انتخاب کنید">
+
+        <label for="mileage">:کارکرد خودرو (به کیلومتر)</label>
+        <input type="number" id="mileage" placeholder="مقدار کارکرد را وارد کنید">
+
+        <label for="accidents">:تعداد تصادفات خودرو</label>
+        <input type="number" id="accidents" placeholder="تعداد تصادفات را وارد کنید">
+
+        <label for="insurance">:ماه های باقی مانده از بیمه</label>
+        <input type="number" id="insurance" placeholder="ماه‌های بیمه را وارد کنید">
+
+        <label for="color">:رنگ خودرو</label>
+        <select id="color">
+            <option value="black">مشکی</option>
+            <option value="white">سفید</option>
+            <option value="red">قرمز</option>
+            <option value="blue">آبی</option>
+            <option value="gray">خاکستری</option>
+        </select>
+
+        <button onclick="calculatePrice()">محاسبه قیمت نهایی</button>
+    </div>
+
+    <div id="result"></div>
+
+    <script src="./main.js"></script>
+
+</body>
+</html>
