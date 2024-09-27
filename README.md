@@ -86,6 +86,8 @@ To run any of the exercises, simply open the corresponding HTML file in your bro
 Requirements:
 A modern web browser (Chrome, Firefox, Edge, or any modern browser).
 Basic understanding of HTML, CSS, and JavaScript to fully appreciate the code.
+
+
 Author:
 This project was developed by Seyed Hamid Hosseini. These exercises helped me improve my web development skills, and I enjoyed working on them to solve real-world problems. I hope this collection is useful for others looking to learn or sharpen their web programming skills.
 
