@@ -9,6 +9,7 @@ In this exercise, I created a simple program that randomly displays a verse from
 Key Features:
 Random display of Hafez's poems.
 Simple and minimalistic design.
+![1](https://github.com/user-attachments/assets/198d171d-95a4-426f-aa80-b086262ca566)
 ---------------------------------------------------
 
 Age Calculator (Question 2)
@@ -16,6 +17,7 @@ The second exercise focuses on age calculation based on the user's birthdate. Th
 Key Features:
 Accurate age calculation based on the user’s input.
 User-friendly date input field.
+![2](https://github.com/user-attachments/assets/b67e0f7c-5094-4869-ac19-7df50510f4a6)
 ---------------------------------------------------
 
 Currency Converter (Question 3)
@@ -23,6 +25,7 @@ One of my favorite exercises, this program allows users to input a currency amou
 Key Features:
 Conversion of currencies to USD, EUR, GBP, CAD, and AUD.
 Display of conversion rates in a well-organized table.
+![3](https://github.com/user-attachments/assets/372f3b2c-b679-4d8e-b568-2dc8d52142c6)
 ---------------------------------------------------
 
 Online Quiz (Question 4)
@@ -30,6 +33,7 @@ This project was inspired by online exams. Users can choose the number of questi
 Key Features:
 Users can select the number of questions.
 Randomly generated quiz with score calculation.
+![4](https://github.com/user-attachments/assets/9fa51518-e930-46da-95ae-9a97e07ba6dd)
 ---------------------------------------------------
 
 Car Price Estimator (Question 5)
@@ -37,6 +41,7 @@ In this project, I developed a program that calculates the estimated price of a 
 Key Features:
 Price estimation based on year, mileage, and accidents.
 Insurance and car color influence the final price.
+![5](https://github.com/user-attachments/assets/a2a56643-0c24-4159-967f-2622c74fa633)
 ---------------------------------------------------
 
 Prayer Times (Question 6)
@@ -44,6 +49,7 @@ For this question, I created a program that displays prayer times for the next w
 Key Features:
 Display of prayer times for an entire week.
 City-based selection for accurate prayer times.
+![6](https://github.com/user-attachments/assets/7703493c-a339-4f0a-9442-42cb6dd2e160)
 ---------------------------------------------------
 
 Blog Post Display (Question 7)
@@ -52,6 +58,7 @@ Key Features:
 Display of blog post information, including author details.
 Like, bookmark, and share functionalities.
 Display of comments related to the post.
+![7](https://github.com/user-attachments/assets/83bf7378-cc7b-4892-9c84-01adeef6159e)
 ---------------------------------------------------
 
 Loan Calculator (Question 8)
@@ -59,6 +66,7 @@ In this exercise, I created a loan calculator that calculates monthly payments b
 Key Features:
 Calculates monthly payments based on loan amount, interest rate, and loan term.
 Calculates the loan amount based on the user’s desired monthly payment.
+![8](https://github.com/user-attachments/assets/92d4aa7a-40aa-453c-9ac2-076713d6008e)
 ---------------------------------------------------
 
 How to Run the Project:
