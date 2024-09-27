@@ -23,9 +23,9 @@ One of my favorite exercises, this program allows users to input a currency amou
 Key Features:
 Conversion of currencies to USD, EUR, GBP, CAD, and AUD.
 Display of conversion rates in a well-organized table.
+
+
 Online Quiz (Question 4)
-
-
 This project was inspired by online exams. Users can choose the number of questions they want to answer, and questions are randomly selected from a question bank. Working on this project allowed me to gain experience with randomization and score calculation in JavaScript.
 Key Features:
 Users can select the number of questions.
