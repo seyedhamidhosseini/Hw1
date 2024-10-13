@@ -3,6 +3,13 @@ Web Programming Exercises Collection
 Welcome! I'm Seyed Hamid Hosseini, and this repository contains a collection of web programming exercises that I developed to deepen my knowledge of HTML, CSS, and JavaScript. Each exercise poses a unique challenge and represents the hands-on learning process I went through to enhance my skills in web development.
 
 ---------------------------------------------------
+
+This is a demo project showcasing my portfolio. You can view the live demo by clicking on the link below:
+
+[Click here to view the live demo](https://seyedhamidhosseini.github.io/Hw1/)
+
+---------------------------------------------------
+
 Project Overview:
 
 Hafez Divination (Question 1)
